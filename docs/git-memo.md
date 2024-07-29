@@ -5,13 +5,6 @@ permalink: /docs/git-memo
 ---
 
 #ソフトウェア工学2024
----
-layout: page
-title: "git memo"
-permalink: /docs/git-memo
----
-
-#ソフトウェア工学2024
 
 ##ソフトウェアライフサイクル
 ソフトウェアライフサイクルとは、ソフトウェア開発を行うためのプロセスである。相手のニーズを確認した後、以下の流れを行う。
